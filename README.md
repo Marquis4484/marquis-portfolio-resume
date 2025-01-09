@@ -1,6 +1,5 @@
 # Portfolio Website
 
-This project was Created with ###React
+This is my web portfolio created with ###React
 
-## [MD Najrul Islam Sumon](https://najrulislam.com/)
-
+## [Marquis Sampson](https://marquiswebportfolio.com/)
