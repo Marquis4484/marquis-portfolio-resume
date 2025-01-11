@@ -11,7 +11,7 @@ const PreLoader = () => {
   return (
     <div className="preloader">
       <div className="texts-container">
-        <span>Nextjs</span>
+        <span>Next.js</span>
         <span>React</span>
         <span>TypeScript</span>
         <Dna

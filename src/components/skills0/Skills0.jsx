@@ -63,7 +63,7 @@ const Skill = styled.div`
   width: 100%;
   max-width: 500px;
   background: rgb(3, 6, 24);
-  border: 0.1px solid #854ce6;
+  border: 0.1px solid #6bb2f5;
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
   border-radius: 16px;
   padding: 18px 36px;
@@ -80,7 +80,7 @@ const Skill = styled.div`
 const SkillTitle = styled.h2`
   font-size: 28px;
   font-weight: 600;
-  color: #b86df5;
+  color: #6bb2f5;
   margin-bottom: 20px;
   text-align: center;
 `;
@@ -135,28 +135,27 @@ const Skills0 = () => {
       <Container>
         <Wrapper>
           <h5 style={{ color: "rgba(255, 255, 255, 0.6)" }}>What are my</h5>
-          <h2 style={{ color: "#b86df5" }}>Skills</h2>
+          <h2 style={{ color: "#6bb2f5" }}>Skills</h2>
           {/* <Title>Skills</Title>
         <Desc>Here are some of my skills on which I have been working on for the past 2 years.
         </Desc> */}
-        <SkillsContainer>
-          {skills.map((skill) => (
-            <Skill key={skill.id}>
-              <SkillTitle>{skill.title}</SkillTitle>
-              <SkillList>
-                {skill.skills.map((item) => (
-                  <SkillItem key={item.id}>
-                    <SkillImage src={item.image}/>
-                    {item.name}
-                  </SkillItem>
-                ))}
-              </SkillList>
-            </Skill>
-          ))}
-
-        </SkillsContainer>
-      </Wrapper>
-    </Container>
+          <SkillsContainer>
+            {skills.map((skill) => (
+              <Skill key={skill.id}>
+                <SkillTitle>{skill.title}</SkillTitle>
+                <SkillList>
+                  {skill.skills.map((item) => (
+                    <SkillItem key={item.id}>
+                      <SkillImage src={item.image} />
+                      {item.name}
+                    </SkillItem>
+                  ))}
+                </SkillList>
+              </Skill>
+            ))}
+          </SkillsContainer>
+        </Wrapper>
+      </Container>
     </section>
   );
 };

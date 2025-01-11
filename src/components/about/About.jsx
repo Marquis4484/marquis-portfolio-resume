@@ -56,7 +56,7 @@ const About = () => {
             I am a passionate Software Engineer specializing in Next.js, React,
             Tailwind CSS, JavaScript, TypeScript, Express, and Node.js. I am
             currently learning to work with MySQL, Swift, and MongoDB. I have
-            over 5 years of experience building applications that can be viewed
+            over 3 years of experience building applications that can be viewed
             on the web.
           </p>
 

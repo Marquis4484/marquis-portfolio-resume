@@ -1,5 +1,5 @@
 .portfolio_container {
-/*   display: grid;
+  /*   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2.5rem; */
   height: 100%;
@@ -24,8 +24,8 @@
 .portfolio_item_image {
   border-radius: 1.5rem;
   overflow: hidden;
-  border: 1px rgb(89, 18, 102) solid;
-  padding-top: 15px;    
+  border: 1px rgb(12, 143, 237) 83.1% solid;
+  padding-top: 15px;
   display: grid;
   justify-content: center;
 }
@@ -42,10 +42,9 @@
   margin-left: 12px;
 }
 
-.portfolio_item_content{
+.portfolio_item_content {
   display: grid;
   justify-content: center;
-
 }
 
 .tag_css {
@@ -54,7 +53,7 @@
   word-spacing: 3px;
   margin-left: 12px;
   padding-bottom: 3px;
-  color: rgb(96, 95, 133);
+  color: rgb(124, 143, 218);
 }
 
 /* ==================== Media Queries (Medium Devices) ======================= */

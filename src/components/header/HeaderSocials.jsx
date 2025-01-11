@@ -12,7 +12,7 @@ const HeaderSocials = () => {
       className="header_socials"
     >
       <a
-        href="https://www.linkedin.com/marquis-sampson"
+        href="https://www.linkedin.com/in/marquis-sampson/"
         target="_blank"
         rel="noreferrer"
       >
@@ -21,7 +21,7 @@ const HeaderSocials = () => {
       <a href="https://github.com/Marquis4484" target="_blank" rel="noreferrer">
         <BsGithub />
       </a>
-      <a href="mailto:marquis4484@gmail.com" target=" rel='noreferrer'_blank">
+      <a href="mailto:marquis4484@gmail.com" target="_blank" rel="noreferrer">
         <GrMail />
       </a>
     </motion.div>
