@@ -18,7 +18,6 @@ import tailwind_logo from "../../assets/tech_logos/tailwind.webp";
 import nodejs_logo from "../../assets/tech_logos/nodejs.webp";
 import expressjs_logo from "../../assets/tech_logos/expressjs.webp";
 
-
 const Header = () => {
   const logos = [
     { id: 1, name: "React", src: react_logo },

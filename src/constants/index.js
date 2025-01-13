@@ -24,23 +24,9 @@ const skills = [
     skills: [
       {
         id: 2,
-        name: "React",
+        name: "React Js",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-      },
-
-      {
-        id: 3,
-        name: "Next Js",
-        image:
-          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-      },
-
-      {
-        id: 4,
-        name: "Redux",
-        image:
-          "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
 
       {
@@ -62,14 +48,15 @@ const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
 
-  
-
       {
-        id: 9,
-        name: "Bootstrap",
+        id: 8,
+        name: "TypeScript",
         image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+          "https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg",
       },
+
+     ,
+   
       {
         id: 11,
         name: "TailwindCSS",
@@ -101,73 +88,69 @@ const skills = [
       },
       {
         id: 104,
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+        name: "WebSockets",
+        image:""
+         
       },
-
       {
         id: 105,
-        name: "NoSQL",
-        image: "https://i.ibb.co/g6kyNdP/NoSQL.png",
+        name: "REST APIs",
+        image:""
+       
       },
       {
         id: 106,
-        name: "Python",
-        image:
-          "https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc",
-      },
-      {
-        id: 107,
-        name: "PHP",
-        image: "https://www.vectorlogo.zone/logos/php/php-horizontal.svg",
+        name: "HTTP Methods",
+        image:""
+         
       },
     ],
   },
   {
     id: 997,
-    title: "Others",
+    title: "Tools",
     skills: [
       {
         id: 201,
+        name: "Next Js",
+        image:
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      },
+      {
+        id: 202,
         name: "Git",
         image: "https://avatars.githubusercontent.com/u/18133?s=280&v=4",
       },
       {
-        id: 202,
+        id: 203,
         name: "GitHub",
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
       },
       {
-        id: 203,
+        id: 204,
         name: "Vercel",
         image: "https://i.ibb.co/VjL9zJH/Vercel.png",
       },
-      //
-      //
+      {
+        id: 205,
+        name: "Firebase",
+        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
 
       {
-        id: 204,
+        id: 206,
         name: "Netlify",
         image:
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
       {
-        id: 205,
+        id: 207,
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
       },
-      {
-        id: 206,
-        name: "WordPress",
-        image: "https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg",
-      },
-      {
-        id: 207,
-        name: "Adobe PS",
-        image: "https://i.ibb.co/X52kyqc/adobe-photoshop-svgrepo-com.png",
-      },
+
       {
         id: 208,
         name: "Figma",
@@ -176,99 +159,79 @@ const skills = [
       },
       {
         id: 209,
-        name: "Canva",
-        image: "https://www.vectorlogo.zone/logos/canva/canva-icon.svg",
+        name: "TypeScript",
+        image: "src/assets/tech_logos/ts.webp",
       },
       {
         id: 210,
-        name: "Camtasia",
-        image: "https://i.ibb.co/rxWnyvh/camtasia.jpg",
+        name: "Shadcn/ui",
+        image: ""
       },
       {
         id: 211,
-        name: "Filmora",
-        image: "https://i.ibb.co/WK1mZ6s/filmora.png",
+        name: "Supabase",
+        image:""
+        
       },
       {
         id: 212,
-        name: "Shopify",
-        image:
-          "https://logowik.com/content/uploads/images/shopify-bag5181.logowik.com.webp",
+        name: "Socket.io",
+        image:""
+         
+      },
+      {
+        id: 213,
+        name: "Clerk",
+        image:""
+        
+      },
+      {
+        id: 214,
+        name: "Heroku",
+        image:""
+         
       },
     ],
   },
   {
     id: 996,
-    title: "Tools",
+    title: "Interests",
     skills: [
-      
       {
         id: 301,
-        name: "Git",
-        image: "https://avatars.githubusercontent.com/u/18133?s=280&v=4",
+        name: "Software Development",
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 302,
-        name: "GitHub",
-        image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        name: "Music",
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 303,
-        name: "Vercel",
-        image: "https://i.ibb.co/VjL9zJH/Vercel.png",
+        name: "Art",
+        image: "/src/assets/favicon.ico",
       },
-      //
-      //
 
       {
         id: 304,
-        name: "Netlify",
-        image:
-          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+        name: "Languages",
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 305,
-        name: "VS Code",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+        name: "Marketing",
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 306,
-        name: "WordPress",
-        image: "https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg",
+        name: "Social Media",
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 307,
-        name: "Adobe PS",
-        image: "https://i.ibb.co/X52kyqc/adobe-photoshop-svgrepo-com.png",
-      },
-      {
-        id: 308,
-        name: "Figma",
-        image:
-          "https://i.pinimg.com/originals/63/a7/b1/63a7b1894b3210d07e434e9d12170586.png",
-      },
-      {
-        id: 309,
-        name: "Canva",
-        image: "https://www.vectorlogo.zone/logos/canva/canva-icon.svg",
-      },
-      {
-        id: 310,
-        name: "Camtasia",
-        image: "https://i.ibb.co/rxWnyvh/camtasia.jpg",
-      },
-      {
-        id: 311,
-        name: "Filmora",
-        image: "https://i.ibb.co/WK1mZ6s/filmora.png",
-      },
-      {
-        id: 312,
-        name: "Shopify",
-        image:
-          "https://logowik.com/content/uploads/images/shopify-bag5181.logowik.com.webp",
+        name: "Ecommerce",
+        image: "/src/assets/favicon.ico",
       },
     ],
   },
@@ -277,65 +240,56 @@ const skills = [
 const portfolio = [
   {
     id: 1,
-    gif: "https://uploads-ssl.webflow.com/624ffa8926c9b353747d449f/626117bf88153d043bf91d37_preview.gif",
-    title: "[Project]",
-    github: "https://github.com/",
-    demo: "https://www.google.co/",
-    tag: "#Tech #Tech #Tech",
+    gif: "src/assets/gif/HomeAway.gif",
+    title: "HomeAway",
+    github: "https://github.com/Marquis4484/homeaway-supabase",
+    demo: "https://homeaway-supabase.vercel.app/",
+    tag: "#Next.js #TypeScript #TailwindCSS",
   },
 
   {
     id: 2,
-    gif: "https://uploads-ssl.webflow.com/624ffa8926c9b353747d449f/626117bf88153d043bf91d37_preview.gif",
-    title: "[Project]",
-    github: "https://github.com/",
-    demo: "https://www.google.co/",
-    tag: "#Tech #Tech #Tech",
+    gif: "/src/assets/gif/Tealaxation.gif",
+    title: "Tealaxation",
+    github: "https://github.com/Marquis4484/tealaxation",
+    demo: "https://tealaxation.netlify.app/",
+    tag: "#HTML #CSS #JavaScript",
   },
 
   {
     id: 3,
-    gif: "https://uploads-ssl.webflow.com/624ffa8926c9b353747d449f/626117bf88153d043bf91d37_preview.gif",
-    title: "[Project]",
-    github: "https://github.com/",
-    demo: "https://www.google.co/",
-    tag: "#Tech #Tech #Tech",
+    gif: "src/assets/gif/Spaces.gif",
+    title: "Spaces",
+    github: "https://github.com/Marquis4484/spaces-live-chat-app",
+    demo: "https://ms-spaces.com/",
+    tag: "#React #Express #Node.js",
   },
 
   {
     id: 4,
-    gif: "https://uploads-ssl.webflow.com/624ffa8926c9b353747d449f/626117bf88153d043bf91d37_preview.gif",
-    title: "[Project]",
-    github: "https://github.com/",
-    demo: "https://www.google.co/",
-    tag: "#Tech #Tech #Tech",
+    gif: "/src/assets/gif/AmazonClone.gif",
+    title: "Amazon Clone",
+    github: "https://github.com/Marquis4484/amazon-clone",
+    demo: "https://amazon-clone-re1kudttb-marquis4484s-projects.vercel.app/",
+    tag: "#Next.js #TailwindCSS #React",
   },
 
   {
     id: 5,
-    gif: "https://uploads-ssl.webflow.com/624ffa8926c9b353747d449f/626117bf88153d043bf91d37_preview.gif",
-    title: "[Project]",
-    github: "https://github.com/",
-    demo: "https://www.google.co/",
-    tag: "#Tech #Tech #Tech",
+    gif: "/src/assets/gif/GrandBuffet.gif",
+    title: "Grand Buffet",
+    github: "https://github.com/Marquis4484/grandbuffet",
+    demo: "https://ms-grandbuffet.com/",
+    tag: "#HTML #CSS #JavaScript",
   },
 
   {
     id: 6,
-    gif: "https://uploads-ssl.webflow.com/624ffa8926c9b353747d449f/626117bf88153d043bf91d37_preview.gif",
-    title: "[Project]",
-    github: "https://github.com/",
-    demo: "https://www.google.co/",
-    tag: "#Tech #Tech #Tech",
-  },
-
-  {
-    id: 7,
-    gif: "https://uploads-ssl.webflow.com/624ffa8926c9b353747d449f/626117bf88153d043bf91d37_preview.gif",
-    title: "[Project]",
-    github: "https://github.com/",
-    demo: "https://www.google.co/",
-    tag: "#Tech #Tech #Tech",
+    gif: "/src/assets/gif/MusicPlayer.gif",
+    title: "Music Player",
+    github: "https://github.com/Marquis4484/musicplayer",
+    demo: "https://ms-musicplayer.netlify.app/",
+    tag: "#HTML #CSS #JavaScript",
   },
 ];
 

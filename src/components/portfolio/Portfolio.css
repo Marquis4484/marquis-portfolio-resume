@@ -22,9 +22,9 @@
 }
 
 .portfolio_item_image {
-  border-radius: 1.5rem;
+  border-radius: 10px;
   overflow: hidden;
-  border: 1px rgb(12, 143, 237) 83.1% solid;
+  border: 1px solid #6bb2f5;
   padding-top: 15px;
   display: grid;
   justify-content: center;
