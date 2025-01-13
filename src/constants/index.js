@@ -55,8 +55,7 @@ const skills = [
           "https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg",
       },
 
-     ,
-   
+      ,
       {
         id: 11,
         name: "TailwindCSS",
@@ -89,20 +88,17 @@ const skills = [
       {
         id: 104,
         name: "WebSockets",
-        image:""
-         
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 105,
         name: "REST APIs",
-        image:""
-       
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 106,
         name: "HTTP Methods",
-        image:""
-         
+        image: "/src/assets/favicon.ico",
       },
     ],
   },
@@ -165,31 +161,27 @@ const skills = [
       {
         id: 210,
         name: "Shadcn/ui",
-        image: ""
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 211,
         name: "Supabase",
-        image:""
-        
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 212,
         name: "Socket.io",
-        image:""
-         
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 213,
         name: "Clerk",
-        image:""
-        
+        image: "/src/assets/favicon.ico",
       },
       {
         id: 214,
         name: "Heroku",
-        image:""
-         
+        image: "/src/assets/favicon.ico",
       },
     ],
   },
