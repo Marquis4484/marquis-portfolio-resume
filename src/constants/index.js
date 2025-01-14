@@ -48,13 +48,6 @@ const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
 
-      {
-        id: 8,
-        name: "TypeScript",
-        image:
-          "https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg",
-      },
-
       ,
       {
         id: 11,
@@ -88,17 +81,17 @@ const skills = [
       {
         id: 104,
         name: "WebSockets",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 105,
         name: "REST APIs",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 106,
         name: "HTTP Methods",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
     ],
   },
@@ -161,27 +154,27 @@ const skills = [
       {
         id: 210,
         name: "Shadcn/ui",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 211,
         name: "Supabase",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 212,
         name: "Socket.io",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 213,
         name: "Clerk",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 214,
         name: "Heroku",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
     ],
   },
@@ -192,38 +185,38 @@ const skills = [
       {
         id: 301,
         name: "Software Development",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 302,
         name: "Music",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 303,
         name: "Art",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
 
       {
         id: 304,
         name: "Languages",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 305,
         name: "Marketing",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 306,
         name: "Social Media",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
       {
         id: 307,
         name: "Ecommerce",
-        image: "/src/assets/favicon.ico",
+        image: "/src/assets/logo.png",
       },
     ],
   },
@@ -259,7 +252,7 @@ const portfolio = [
 
   {
     id: 4,
-    gif: "/src/assets/gif/AmazonClone.gif",
+    gif: "../../assets/gif/AmazonClone.gif",
     title: "Amazon Clone",
     github: "https://github.com/Marquis4484/amazon-clone",
     demo: "https://amazon-clone-re1kudttb-marquis4484s-projects.vercel.app/",
@@ -277,7 +270,7 @@ const portfolio = [
 
   {
     id: 6,
-    gif: "/src/assets/gif/MusicPlayer.gif",
+    gif: "../assets/gif/MusicPlayer.gif",
     title: "Music Player",
     github: "https://github.com/Marquis4484/musicplayer",
     demo: "https://ms-musicplayer.netlify.app/",
