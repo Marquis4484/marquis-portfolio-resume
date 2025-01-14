@@ -81,17 +81,17 @@ const skills = [
       {
         id: 104,
         name: "WebSockets",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 105,
         name: "REST APIs",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 106,
         name: "HTTP Methods",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
     ],
   },
@@ -154,27 +154,27 @@ const skills = [
       {
         id: 210,
         name: "Shadcn/ui",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 211,
         name: "Supabase",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 212,
         name: "Socket.io",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 213,
         name: "Clerk",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 214,
         name: "Heroku",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
     ],
   },
@@ -185,38 +185,38 @@ const skills = [
       {
         id: 301,
         name: "Software Development",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 302,
         name: "Music",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 303,
         name: "Art",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
 
       {
         id: 304,
         name: "Languages",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 305,
         name: "Marketing",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 306,
         name: "Social Media",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
       {
         id: 307,
         name: "Ecommerce",
-        image: "/src/assets/logo.png",
+        image: "/logo.png",
       },
     ],
   },
@@ -225,7 +225,7 @@ const skills = [
 const portfolio = [
   {
     id: 1,
-    gif: "src/assets/gif/HomeAway.gif",
+    gif: "/gif/HomeAway.gif",
     title: "HomeAway",
     github: "https://github.com/Marquis4484/homeaway-supabase",
     demo: "https://homeaway-supabase.vercel.app/",
@@ -234,7 +234,7 @@ const portfolio = [
 
   {
     id: 2,
-    gif: "/src/assets/gif/Tealaxation.gif",
+    gif: "/gif/Tealaxation.gif",
     title: "Tealaxation",
     github: "https://github.com/Marquis4484/tealaxation",
     demo: "https://tealaxation.netlify.app/",
@@ -243,7 +243,7 @@ const portfolio = [
 
   {
     id: 3,
-    gif: "src/assets/gif/Spaces.gif",
+    gif: "/gif/Spaces.gif",
     title: "Spaces",
     github: "https://github.com/Marquis4484/spaces-live-chat-app",
     demo: "https://ms-spaces.com/",
@@ -252,7 +252,7 @@ const portfolio = [
 
   {
     id: 4,
-    gif: "../../assets/gif/AmazonClone.gif",
+    gif: "/gif/AmazonClone.gif",
     title: "Amazon Clone",
     github: "https://github.com/Marquis4484/amazon-clone",
     demo: "https://amazon-clone-re1kudttb-marquis4484s-projects.vercel.app/",
@@ -261,7 +261,7 @@ const portfolio = [
 
   {
     id: 5,
-    gif: "/src/assets/gif/GrandBuffet.gif",
+    gif: "/gif/GrandBuffet.gif",
     title: "Grand Buffet",
     github: "https://github.com/Marquis4484/grandbuffet",
     demo: "https://ms-grandbuffet.com/",
@@ -270,7 +270,7 @@ const portfolio = [
 
   {
     id: 6,
-    gif: "../assets/gif/MusicPlayer.gif",
+    gif: "/gif/MusicPlayer.gif",
     title: "Music Player",
     github: "https://github.com/Marquis4484/musicplayer",
     demo: "https://ms-musicplayer.netlify.app/",
