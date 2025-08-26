@@ -231,17 +231,9 @@ const portfolio = [
     demo: "https://page-turner-5tai.vercel.app/",
     tag: "#Next.js #TypeScript #TailwindCSS",
   },
-  {
-    id: 2,
-    gif: "/gif/HomeAway.gif",
-    title: "HomeAway",
-    github: "https://github.com/Marquis4484/homeaway-supabase",
-    demo: "https://homeaway-supabase.vercel.app/",
-    tag: "#Next.js #TypeScript #TailwindCSS",
-  },
 
   {
-    id: 3,
+    id: 2,
     gif: "/gif/Tealaxation.gif",
     title: "Tealaxation",
     github: "https://github.com/Marquis4484/tealaxation",
@@ -250,7 +242,7 @@ const portfolio = [
   },
 
   {
-    id: 4,
+    id: 3,
     gif: "/gif/Spaces.gif",
     title: "Spaces",
     github: "https://github.com/Marquis4484/spaces-live-chat-app",
@@ -259,7 +251,7 @@ const portfolio = [
   },
 
   {
-    id: 5,
+    id: 4,
     gif: "/gif/AmazonClone.gif",
     title: "Amazon Clone",
     github: "https://github.com/Marquis4484/amazon-clone",
@@ -268,7 +260,7 @@ const portfolio = [
   },
 
   {
-    id: 6,
+    id: 5,
     gif: "/gif/GrandBuffet.gif",
     title: "Grand Buffet",
     github: "https://github.com/Marquis4484/grandbuffet",
@@ -277,12 +269,20 @@ const portfolio = [
   },
 
   {
-    id: 7,
+    id: 6,
     gif: "/gif/MusicPlayer.gif",
     title: "Music Player",
     github: "https://github.com/Marquis4484/musicplayer",
     demo: "https://ms-musicplayer.netlify.app/",
     tag: "#HTML #CSS #JavaScript",
+  },
+  {
+    id: 7,
+    gif: "/gif/HomeAway.gif",
+    title: "HomeAway",
+    github: "https://github.com/Marquis4484/homeaway-supabase",
+    demo: "https://homeaway-supabase.vercel.app/",
+    tag: "#Next.js #TypeScript #TailwindCSS",
   },
 ];
 
