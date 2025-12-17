@@ -239,7 +239,7 @@ const portfolio = [
     github: "https://github.com/Marquis4484/tealaxation",
     demo: "https://tealaxation.netlify.app/",
     tag: "#HTML #CSS #JavaScript",
-  },
+  }, 
 
   {
     id: 3,
