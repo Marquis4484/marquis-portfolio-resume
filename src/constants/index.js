@@ -229,7 +229,7 @@ const portfolio = [
     title: "PageTurner",
     github: "https://github.com/Marquis4484/page_turner",
     demo: "https://page-turner-5tai.vercel.app/",
-    tag: "#Next.js #TypeScript #TailwindCSS",
+    tag: "#Next.js #TypeScript #TailwindCSS", 
   },
 
   {
