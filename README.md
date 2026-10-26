@@ -5,7 +5,7 @@
 **Marquis Sampson Web Portfolio** is a responsive personal portfolio website built with React, Vite, CSS, Framer Motion, AOS, Swiper, EmailJS, and React Icons.
 
 ## Project Overview
-
+ 
 My presents my software engineering background, featured projects, technical skills, resume, and contact options in one interactive web experience. The application is structured as a single page portfolio where visitors can move between the header, about, skills, portfolio, contact, and footer sections. It was designed for recruiters, clients, collaborators, and other developers who want a clear view of my work and professional experience. The portfolio section showcases recent projects through a Swiper carousel with GitHub and live demo links. The contact section provides direct email, LinkedIn, GitHub, and an EmailJS message form.
 
 ## Features
